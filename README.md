@@ -1,7 +1,6 @@
 ### Hi 👋, it's Umer Maher here
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Java and XML
 - 🌱 I’m currently learning Android App Development
