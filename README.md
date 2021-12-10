@@ -10,7 +10,5 @@
 - 📫 How to reach me: umerrasheedmahar@gmail.com
 - ⚡ Fun fact: I’m a Football lover⚽
 
-Languages and Tools:
-cplusplus java git  mysql XML
  
 
