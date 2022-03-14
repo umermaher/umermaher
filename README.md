@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umer Maher</h1>
 <h3 align="center">A passionate Android Developer</h3>
 
+![coding animation](https://user-images.githubusercontent.com/93570267/158133428-9fa828ff-ceab-460b-aa48-5dc42b8954df.gif)
 
 - 🔭 I’m currently working on **Native Android Applications**
 
