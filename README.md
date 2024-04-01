@@ -25,6 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umer-mahar-8a0990224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umer-mahar-8a0990224" height="30" width="40" /></a>
+  <a href="https://medium.com/@umerrasheedmahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="umer_mahar571" height="30" width="40" /></a>
 <a href="https://instagram.com/umer_mahar571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umer_mahar571" height="30" width="40" /></a>
 </p>
 
