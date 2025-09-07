@@ -43,6 +43,8 @@
   <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="jetpack compose" width="40" height="40"/> 
   <img src="https://kotlinlang.org/assets/images/twitter-card/kotlin-multiplatform.png" alt="kmp" width="60" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  ![Jetpack Compose Logo](https://cdn.worldvectorlogo.com/logos/jetpack-compose-1.svg)
+
 </p>
 
 ---
