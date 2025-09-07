@@ -15,7 +15,7 @@
 - 🔭 Currently working on **Native Android Applications**  
 - 👯 Open to collaborating on **Android Projects & Open Source**  
 - 🤝 Always eager to **explore and learn new technologies**  
-- 💬 Ask me about **Android | Kotlin | Clean Architecture**  
+- 💬 Ask me about **Android | Kotlin | Jetpack Compose | Clean Architecture**  
 - 📫 Reach me at: **umerrasheedmahar@gmail.com**
 
 ---
