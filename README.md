@@ -1,5 +1,5 @@
 <!-- Banner -->
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://github.com/user-attachments/assets/c8f4e72d-ae2b-4273-be11-b2f840a8f670)
 
 <h1 align="center">Hey 👋, I'm Umer Maher</h1>
 <h3 align="center">🚀 Passionate Android Developer | Kotlin Enthusiast | Tech Explorer</h3>
