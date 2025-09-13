@@ -7,15 +7,23 @@
 ---
 
 ### 🧑‍💻 About Me  
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/93570267/158133428-9fa828ff-ceab-460b-aa48-5dc42b8954df.gif" width="200" align="left" style="margin-right:20px;"/>
-  
-  • 🔭 Currently working on **Native Android Applications**  
-  • 👯 Open to collaborating on **Android Projects & Open Source**  
-  • 🤝 Always eager to **explore and learn new technologies**  
-  • 💬 Ask me about **Android | Kotlin | Jetpack Compose | Clean Architecture**  
-  • 📫 Reach me at: **umerrasheedmahar@gmail.com**
-</p>
+
+<table>
+<tr>
+<td>
+
+- 🔭 Currently working on **Native Android Applications**  
+- 👯 Open to collaborating on **Android Projects & Open Source**  
+- 🤝 Always eager to **explore and learn new technologies**  
+- 💬 Ask me about **Android | Kotlin | Jetpack Compose | Clean Architecture**  
+- 📫 Reach me at: **umerrasheedmahar@gmail.com**
+
+</td>
+<td>
+  <img src="https://user-images.githubusercontent.com/93570267/158133428-9fa828ff-ceab-460b-aa48-5dc42b8954df.gif" width="250" style="margin-left:30px;"/>
+</td>
+</tr>
+</table>
 
 ---
 
