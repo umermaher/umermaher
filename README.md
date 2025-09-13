@@ -1,24 +1,24 @@
-<!-- Banner -->
-![MasterHead](https://github.com/user-attachments/assets/c8f4e72d-ae2b-4273-be11-b2f840a8f670)
+<!-- Banner / Cover Image -->
+![Android Cover](https://github.com/user-attachments/assets/c8f4e72d-ae2b-4273-be11-b2f840a8f670)
 
 <h1 align="center">Hey 👋, I'm Umer Maher</h1>
 <h3 align="center">🚀 Passionate Android Developer | Kotlin Enthusiast | Tech Explorer</h3>
 
-<!-- Coding GIF -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/93570267/158133428-9fa828ff-ceab-460b-aa48-5dc42b8954df.gif" width="500"/>
+---
+
+### 🧑‍💻 About Me  
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/93570267/158133428-9fa828ff-ceab-460b-aa48-5dc42b8954df.gif" width="200" align="left" style="margin-right:20px;"/>
+  
+  • 🔭 Currently working on **Native Android Applications**  
+  • 👯 Open to collaborating on **Android Projects & Open Source**  
+  • 🤝 Always eager to **explore and learn new technologies**  
+  • 💬 Ask me about **Android | Kotlin | Jetpack Compose | Clean Architecture**  
+  • 📫 Reach me at: **umerrasheedmahar@gmail.com**
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🔭 Currently working on **Native Android Applications**  
-- 👯 Open to collaborating on **Android Projects & Open Source**  
-- 🤝 Always eager to **explore and learn new technologies**  
-- 💬 Ask me about **Android | Kotlin | Jetpack Compose | Clean Architecture**  
-- 📫 Reach me at: **umerrasheedmahar@gmail.com**
-
----
 
 ### 🌐 Connect with Me
 <p align="left">
